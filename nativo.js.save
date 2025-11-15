@@ -1,0 +1,14 @@
+/* Parte 2: Conexão nativa ("Crua")*/
+
+// 1. Importar a biblioteca que acabamos de instalar
+const mysql = require('mysql2/promise');
+
+// A função principal do nosso script
+async function main(){
+
+	let connection; // Variável para guardar a conexão
+
+	try{
+		
+	}
+}
