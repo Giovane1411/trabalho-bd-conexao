@@ -1,1 +1,11 @@
+# Ignora as depêndencias do Node.js
 node_modules/
+
+# Ignora a pasta do cliente Prisma gerado
+/generated/prisma
+
+# Ignora arquivos de ambiente (que contêm senhas)
+.env
+
+# Ignora logs de sistema
+*.log
